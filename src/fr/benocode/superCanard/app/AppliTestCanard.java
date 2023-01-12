@@ -1,3 +1,8 @@
+/*
+ * Pattern Stratégie
+ * Il définit une famille d'algorithmes, encapsule chacun d'eux et les rend interchangeables.
+ * Stratégie permet à l'algorithme de varier indépendamment des clients qui l'utilisent.
+ */
 package fr.benocode.superCanard.app;
 
 import fr.benocode.superCanard.bo.Canard;
@@ -20,6 +25,6 @@ public class AppliTestCanard {
 		proto.effectuerVol();
 	}
 
-	// suite du livre page 57
+	// suite du livre page 115
 
 }
